@@ -10,3 +10,5 @@ https://youtube.com/shorts/qbgXN09QmH4?feature=share
 
 How to run:
 To run the project, open it in Unity Hub on version: Unity 2022.3.62. To run the project, connect the Meta Quest headset and use Build and Run with the Android platform selected on the Unity Project. This would add it to the Meta Quest 3 headset and should run automatically once it finishes building and running.
+
+Executeable: https://drive.google.com/file/d/1mmtknRmgTtJIbO1Osrt-nioNEAZrhEWG/view?usp=sharing
